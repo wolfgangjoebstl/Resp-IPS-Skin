@@ -1,8 +1,8 @@
 {
-    "author": "Symcon GmbH",
-    "version": "1.0",
+    "author": "WolfgangJoebstl Symcon GmbH",
+    "version": "2.0",
     "compatible": 1,
-    "title": "IP-Symcon WebFront",
+    "title": "IP-Symcon Plus WebFront",
     "url": "http:\/\/www.ip-symcon.de\/forum\/",
     "git": "https:\/\/github.com\/symcon\/SkinDark.git",
     "icons": [
